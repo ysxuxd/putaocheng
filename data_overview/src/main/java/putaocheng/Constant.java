@@ -9,13 +9,13 @@ public class Constant {
     public static final String TRANSVERSE = "\u2500";   //─
     public static final String VERTICAL = "\u2502";     //│
 
-    public static final String CROSS_RIGHT =  "\u251c"; //├
-    public static final String CROSS_LEFT =  "\u2524";  //┤
-    public static final String CROSS_DOWN =  "\u252c";  //┬
-    public static final String CROSS_UP =  "\u2534";    //┴
-    public static final String CROSS =  "\u253c";       //┼
+    public static final String CROSS_RIGHT = "\u251c"; //├
+    public static final String CROSS_LEFT = "\u2524";  //┤
+    public static final String CROSS_DOWN = "\u252c";  //┬
+    public static final String CROSS_UP = "\u2534";    //┴
+    public static final String CROSS = "\u253c";       //┼
 
-    public static final String PILLAR =  "\u2588";      //█
-    public static final String EMPTY =  "\u0020";       //
-    public static final Integer INT_20 =  20;           //柱子最大数量
+    public static final String PILLAR = "\u2588";      //█
+    public static final String EMPTY = "\u0020";       //
+    public static final Integer INT_20 = 20;           //柱子最大数量
 }

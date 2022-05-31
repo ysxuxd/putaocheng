@@ -33,8 +33,8 @@ public class DataOverview {
         String[] strs = input.split("\n");
         String numStr = strs[0];
         //参数校验
-        Integer num =Integer.parseInt(numStr);
-        if(num<1 || num>20) {
+        Integer num = Integer.parseInt(numStr);
+        if (num < 1 || num > 20) {
             throw new IllegalArgumentException("行数不在范围内，1<=num<=20");
         }
         inputParam.setNum(num);
